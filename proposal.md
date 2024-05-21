@@ -7,7 +7,7 @@
 
 ### Repositorios
 * [frontend app](http://hyperlinkToGihubOrGitlab)
-* [backend app](http://hyperlinkToGihubOrGitlab)
+* [backend app](https://github.com/LaureanoC/peluqueria-dsw-backend)
 *Nota*: si utiliza un monorepo indicar un solo link con fullstack app.
 
 ## Sistema para una peluquería
