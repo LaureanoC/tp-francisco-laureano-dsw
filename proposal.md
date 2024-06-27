@@ -6,9 +6,9 @@
 * 50749, Coux Francisco Julián
 
 ### Repositorios
-* [frontend app](http://hyperlinkToGihubOrGitlab)
+* [frontend app](https://github.com/LaureanoC/peluqueria-dsw-frontend)
 * [backend app](https://github.com/LaureanoC/peluqueria-dsw-backend)
-*Nota*: si utiliza un monorepo indicar un solo link con fullstack app.
+
 
 ## Sistema para una peluquería
 ### Descripción
